@@ -1,0 +1,37 @@
+body {
+  background-color: #f0f0f0;
+}
+
+.breadcrumb {
+  background-color:  #D8DCE3;
+}
+
+/* .sl-header {
+  height: 80px;
+} */
+
+.side-right {
+  background-color: white;
+
+}
+
+.search-bar {
+  border-radius: 30px;
+  width: 600px;
+}
+
+.sl-mainpanel {
+  height: 100%;
+}
+
+.vertical-fill {
+  height: 100%;
+}
+
+.side-left-card {
+  border-radius: 10px;
+}
+
+table {
+  background-color: white;
+}
